@@ -1,0 +1,13 @@
+# Description: Configuration file for upload.py
+AWS_SSO_PROFILE: 'GammaDataScientistAccess-545703552729'
+AWS_PROFILE_NAME: '545703552729_GammaDataScientistAccess'
+AWS_REGION: 'us-east-1'
+AWS_S3_BUCKET_NAME: 'platform-s3-aiml-545703552729'
+AWS_BUCKET_TARGET_FOLDER: 'jeff_folder'
+
+
+# # Description: Configuration file for upload.py
+# AWS_SSO_PROFILE: '****'
+# AWS_REGION: 'us-east-1'
+# AWS_S3_BUCKET_NAME: '****'
+# AWS_BUCKET_TARGET_FOLDER: '****'
